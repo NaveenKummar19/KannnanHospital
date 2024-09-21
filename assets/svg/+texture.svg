@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402" height="307" viewBox="0 0 402 307">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.243" x2="1" y2="0.857" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a4bac"/>
+      <stop offset="1" stop-color="#153e90"/>
+    </linearGradient>
+  </defs>
+  <g id="_texture" data-name="+texture" transform="translate(-1157 -4150)">
+    <path id="Union_1" data-name="Union 1" d="M47.585,107a12,12,0,0,1-12-12V71.415H12a12,12,0,0,1-12-12V47.585a12,12,0,0,1,12-12H35.585V12a12,12,0,0,1,12-12H59.415a12,12,0,0,1,12,12V35.585H95a12,12,0,0,1,12,12V59.415a12,12,0,0,1-12,12H71.415V95a12,12,0,0,1-12,12Z" transform="translate(1245 4276)" fill="url(#linear-gradient)"/>
+    <path id="Union_5" data-name="Union 5" d="M22.614,56.615V45.385H11.385a11.385,11.385,0,0,1,0-22.771H22.614V11.385a11.385,11.385,0,0,1,22.771,0V22.614H56.615a11.385,11.385,0,0,1,0,22.771H45.385V56.615a11.385,11.385,0,0,1-22.771,0Z" transform="translate(1475 4379) rotate(180)" fill="url(#linear-gradient)"/>
+    <path id="Union_3" data-name="Union 3" d="M37.94,78a12,12,0,0,1-12-12V52.06H12a12,12,0,0,1-12-12V37.94a12,12,0,0,1,12-12H25.94V12a12,12,0,0,1,12-12h2.119a12,12,0,0,1,12,12V25.94H66a12,12,0,0,1,12,12v2.119a12,12,0,0,1-12,12H52.06V66a12,12,0,0,1-12,12Z" transform="translate(1157 4218)" fill="url(#linear-gradient)"/>
+    <path id="Union_6" data-name="Union 6" d="M16.628,41.629V33.372H8.372a8.372,8.372,0,1,1,0-16.744h8.257V8.372a8.372,8.372,0,1,1,16.744,0v8.257h8.257a8.372,8.372,0,0,1,0,16.744H33.372v8.257a8.372,8.372,0,0,1-16.744,0Z" transform="translate(1559 4420) rotate(180)" fill="url(#linear-gradient)"/>
+    <path id="Union_2" data-name="Union 2" d="M60.223,145a12,12,0,0,1-12-12V96.777H12a12,12,0,0,1-12-12V60.223a12,12,0,0,1,12-12H48.222V12a12,12,0,0,1,12-12H84.777a12,12,0,0,1,12,12V48.222H133a12,12,0,0,1,12,12V84.777a12,12,0,0,1-12,12H96.777V133a12,12,0,0,1-12,12Z" transform="translate(1369 4150)" fill="url(#linear-gradient)"/>
+    <path id="Union_4" data-name="Union 4" d="M42.929,93a12,12,0,0,1-12-12V62.071H12a12,12,0,0,1-12-12V42.929a12,12,0,0,1,12-12H30.929V12a12,12,0,0,1,12-12h7.142a12,12,0,0,1,12,12V30.929H81a12,12,0,0,1,12,12v7.142a12,12,0,0,1-12,12H62.071V81a12,12,0,0,1-12,12Z" transform="translate(1433 4457) rotate(180)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
