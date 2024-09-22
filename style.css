@@ -193,7 +193,7 @@ a {
 }
 
 .sectionFour .carousel-item .row .col-sm-12 img {
-    width: fit-content;
+    width: -webkit-fill-available;
 }
 
 
