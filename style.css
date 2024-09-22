@@ -213,6 +213,11 @@ a {
 }
 
 
+.sectionFive .col-sm-12 {
+    display: none;
+}
+
+
 
 .slider {
     max-width: 4000px;
