@@ -189,9 +189,12 @@ a {
 
 .sectionFour .carousel-item .row .col-sm-12 {
     margin: 20px 0px;
-    width: fit-content;
+
 }
 
+.sectionFour .carousel-item .row .col-sm-12 img {
+    width: fit-content;
+}
 
 
 
