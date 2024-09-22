@@ -187,6 +187,10 @@ a {
     height: 300px;
 }
 
+.sectionFour .carousel-item .row .col-sm-12 {
+    margin: 28px 0px;
+}
+
 
 
 
