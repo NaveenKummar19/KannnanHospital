@@ -428,15 +428,14 @@ footer .text-reset:hover {
 
 
 
-.care_Cure .sectionOne {
+.labFacilities .sectionOne {
     margin-top: 66px;
-    background-image: url(/assets/care.png);
     background-blend-mode: multiply;
 }
 
 
 
-.care_Cure .sectionOne .one {
+.labFacilities .sectionOne .one {
     padding: 100px 0;
 }
 
@@ -459,7 +458,6 @@ footer .text-reset:hover {
 
 .department .sectionOne {
     margin-top: 66px;
-    background-image: url(/assets/pharma.jpg);
     background-blend-mode: multiply;
 }
 
