@@ -430,10 +430,41 @@ footer .text-reset:hover {
 
 .care_Cure .sectionOne {
     margin-top: 66px;
+    background-image: url(/assets/care.png);
+    background-blend-mode: multiply;
 }
 
 
 
 .care_Cure .sectionOne .one {
     padding: 100px 0;
+}
+
+
+
+.labOne .row .col-md-6 img {
+    border-radius: 36px;
+    height: 400px;
+    width: 600px;
+
+}
+
+
+.labOne h3 {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+
+
+.department .sectionOne {
+    margin-top: 66px;
+    background-image: url(/assets/pharma.jpg);
+    background-blend-mode: multiply;
+}
+
+
+
+.department .sectionOne .one {
+    padding: 150px 0;
 }
