@@ -511,7 +511,7 @@ footer .text-reset:hover {
 }
 
 .tab-content .tab-pane .row .treat-image {
-    padding: 0;
+    padding: 0 0 !important;
 }
 
 .tab-content .tab-pane .row .treat-image img {
