@@ -507,11 +507,11 @@ footer .text-reset:hover {
 
 .tab-content .tab-pane .row {
     --bs-gutter-x: 35px;
-    --bs-gutter-y: 35px;
+    --bs-gutter-y: 35px
 }
 
 .tab-content .tab-pane .row .treat-image {
-    padding: 0 0 !important;
+    padding: 0 0 I;
 }
 
 .tab-content .tab-pane .row .treat-image img {
