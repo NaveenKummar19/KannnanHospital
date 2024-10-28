@@ -429,7 +429,7 @@ footer .text-reset:hover {
 
 
 .labFacilities .sectionOne {
-    margin-top: 66px;
+    /* margin-top: 66px; */
     background-blend-mode: multiply;
 }
 
@@ -457,7 +457,7 @@ footer .text-reset:hover {
 
 
 .department .sectionOne {
-    margin-top: 66px;
+    /* margin-top: 66px; */
     background-blend-mode: multiply;
 }
 
@@ -465,4 +465,78 @@ footer .text-reset:hover {
 
 .department .sectionOne .one {
     padding: 150px 0;
+}
+
+
+.care-cure .sectionOne .container h1 {
+    margin: 0;
+    padding: 107.825px 0;
+}
+
+
+
+.care-cure .nav-tabs {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: -webkit-box;
+    display: -moz-box;
+    border: none;
+
+}
+
+.nav-tabs>li {
+    float: none;
+    margin-right: 40px;
+
+}
+
+.nav-tabs>li>a {
+    color: #aaa;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.nav-tabs .active {
+    border-bottom: 3px solid #0551B4;
+
+}
+
+.nav-tabs .active>a {
+    color: #050505;
+}
+
+.tab-content .tab-pane .row {
+    --bs-gutter-x: 35px;
+    --bs-gutter-y: 35px
+}
+
+.tab-content .tab-pane .row .treat-image {}
+
+.tab-content .tab-pane .row .treat-image img {
+
+    border-radius: 28px;
+}
+
+
+.tab-content .tab-pane .row .treat-image h3 {
+    color: #050505;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px 0 0 0;
+}
+
+.tab-content .tab-pane .row .treat-image h5 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 4px 0 0 0;
+    color: #757575;
+}
+
+.tab-content .tab-pane .row .treat-image p {
+    color: #656565;
+    margin-top: 16px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: justify;
 }
