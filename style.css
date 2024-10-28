@@ -508,7 +508,6 @@ footer .text-reset:hover {
 .tab-content .tab-pane .row {
     --bs-gutter-x: 35px;
     --bs-gutter-y: 35px;
-    margin: ;
 }
 
 .tab-content .tab-pane .row .treat-image {
