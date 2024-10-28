@@ -510,7 +510,9 @@ footer .text-reset:hover {
     --bs-gutter-y: 35px
 }
 
-.tab-content .tab-pane .row .treat-image {}
+.tab-content .tab-pane .row .treat-image {
+    padding: 0;
+}
 
 .tab-content .tab-pane .row .treat-image img {
 
