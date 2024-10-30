@@ -91,15 +91,7 @@ a {
     outline: none !important;
 }
 
-:not(.btn-check)+.btn:active {
-    border: none !important;
-}
 
-
-
-:not(.btn-check)+.btn:active:focus-visible {
-    box-shadow: none !important;
-}
 
 .navbar-brand img {
     height: 40px;
