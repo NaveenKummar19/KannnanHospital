@@ -85,6 +85,16 @@ a {
     text-decoration: none;
 }
 
+
+
+:focus-visible {
+    outline: none !important;
+}
+
+:not(.btn-check)+.btn:active {
+    border: none !important;
+}
+
 .navbar-brand img {
     height: 40px;
 }
