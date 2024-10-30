@@ -135,8 +135,21 @@ a {
 }
 
 .sectionOne .rowOne {
-    padding: 100px 0;
+    padding: 100px 0 0;
 }
+
+
+
+
+.sectionOne .rowOne .banner-image {
+    height: 600px;
+    background-image: url(/assets/banner_imag-2.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-x: center;
+}
+
+
 
 .sectionTwo .rowOne {
     padding: 100px 0;
