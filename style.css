@@ -135,7 +135,15 @@ a {
 }
 
 .sectionOne .rowOne {
-    padding: 100px 0;
+    padding: 100px 0 0;
+}
+
+
+
+
+.sectionOne .rowOne .banner-image img {
+    display: block;
+    margin: 0 auto;
 }
 
 .sectionTwo .rowOne {
